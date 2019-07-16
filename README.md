@@ -136,6 +136,6 @@ After the loading screen, you'd get the "game" itself. I reused the same sprite 
   <img src="images/sub.png" />
 </p>
 
-This was probably my most ambitious project. An explorative game, where you'd control a sub navigating the seas in search of some objects. I drew all the screens and how they were connected on paper (I guess it's still somewhere, probably!), and there even was a sunk galleon you could explore.
+This was probably my most ambitious project. An explorative game, where you'd control a scuba diver navigating the seas in search of some objects. I drew all the screens and how they were connected on paper (I guess it's still somewhere, probably!), and there even was a sunk galleon you could explore.
 
-Anyway, my first experiments were not that good. I drew sprites for the sub, a small flock of fish, and a shark, where you'd control the sub and the others would move on their own. The shark in particular was designed to chase you. My poor knowledge of event loops, though, made it all very slow and choppy. Not sure how far I went with the other screens!
+Anyway, my first experiments were not that good. I drew sprites for the scuba diver, a small flock of fish, and a shark, where you'd control the scuba diver and the others would move on their own. The shark in particular was designed to chase you. My poor knowledge of event loops, though, made it all very slow and choppy. Not sure how far I went with the other screens!
