@@ -101,7 +101,7 @@ Did I mention how much I love football? This was a very shy attempt at writing a
 
 A couple of years after writing the ITA'90 game, a friend showed me "The Manager" on his Amiga. Needless to say, I was mesmerized, and WANTED something similar on my much less equipped MSX. I wrote this HUGE game, that had the names of all the teams and players of that year in the Italian Serie A: you could sell players, buy them, exchange them, and so on; you could choose the team to play each match; each round you'd see text highlights in "real-time" for each match, with proper names, and at the end of each game, a newspaper would review your efforts. It all sounds awesome, but it had the same basic flow as ITA'90: everything was completely randomized, which means you could get Ascoli win the league, and Juventus relegating to Serie B (where they belong, but that's another story...).
 
-Most importantly, since I had now learned how to use arrays properly, I put *a lot* of stuff in memory. As a result, it often resulted in "Out of memory" errors. Pretty sure it only worked as my MSX had no extension an so got the max 28815 bytes for BASIC, which isn't the norm at all. As such, it might be tricky to get it to run for testing, but give it a try!
+Most importantly, since I had now learned how to use arrays properly, I put *a lot* of stuff in memory. As a result, it often resulted in "Out of memory" errors. Pretty sure it only worked as my MSX had no extension and so got the max 28815 bytes for BASIC, which isn't the norm at all. As such, it might be tricky to get it to run for testing, but give it a try!
 
 ## sprite
 <p align="center">
