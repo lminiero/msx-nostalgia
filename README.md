@@ -28,7 +28,7 @@ All the programs have been saved to ascii format. If you want to test them, e.g.
 <p align="center">
   <img src="images/sherif.png" />
 </p>
-I put this at the beginning, since it's the simplest and dumpest of the bunch. I remember writing this with my older cousin Massimo, who owned an MSX as well (but with a fancy floppy drive I envied a lot) and introduced me to coding. There's nothing Sherif-y in this code: it was simply an opening screen that would then load some existing game! (very much set in the West, I assume)
+I put this at the beginning, since it's the simplest and dumbest of the bunch. I remember writing this with my older cousin Massimo, who owned an MSX as well (but with a fancy floppy drive I envied a lot) and introduced me to coding. There's nothing Sherif-y in this code: it was simply an opening screen that would then load some existing game! (very much set in the West, I assume)
 
 ## lotto
 <p align="center">
