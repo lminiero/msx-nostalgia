@@ -64,7 +64,7 @@ This must have been for the 2nd or 3rd birthday of my youngest sister. My mother
 <p align="center">
   <img src="images/serena.png" />
 </p>
-Serena is the name of that youngest sister of mine. Not sure if this was done for that same birthday or later, but I remember writing this for her, as a very simple drawing tool she could play with. The program is really simple: the cursor keys move the charactr around to draw it, while the function keys change some properties (e.g., current character and colors). Nothing fancy, but it did keep her busy!
+Serena is the name of that youngest sister of mine. Not sure if this was done for that same birthday or later, but I remember writing this for her, as a very simple drawing tool she could play with. The program is really simple: the cursor keys move the character around to draw it, while the function keys change some properties (e.g., current character and colors). Nothing fancy, but it did keep her busy!
 
 ## s-lund
 <p align="center">
